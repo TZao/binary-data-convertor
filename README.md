@@ -1,5 +1,5 @@
 # binary-data-convertor
-Simple CMD line tool build in Java that reads arbitrary file by bytes and writes them into a output text file as a sequence of 1 and 0 characters.
+Simple CMD line tool built in Java that reads arbitrary file by bytes and writes them into a output text file as a sequence of 1 and 0 characters.
 
 # Usage
 ```
