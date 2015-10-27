@@ -19,7 +19,7 @@ public class BinaryData {
 
     @Parameter(
             required = true,
-            names = {"-o", "--output"},
+            names = {"-o", "--outputFilePath"},
             description = "Output file to which input file will be written as an binary string",
             validateValueWith = FileWithWriteAccess.class)
     private String outputFilePath;
